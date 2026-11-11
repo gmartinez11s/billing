@@ -1,0 +1,7 @@
+dataformCoreVersion: "3.0.59"
+defaultLocation: "US"
+vars:
+  cortex_datasets_sap_foundation_projectId: "YOUR_TARGET_PROJECT_ID"
+  cortex_datasets_sap_foundation_datasetId: "cortex7_sap_data_foundation"
+  cortex_datasets_cortex_v6_compatibility_target_projectId: "YOUR_TARGET_PROJECT_ID"
+  cortex_datasets_cortex_v6_compatibility_target_datasetId: "cortex_v6_compatibility"
